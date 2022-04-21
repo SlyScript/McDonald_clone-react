@@ -1,0 +1,43 @@
+import React from 'react'
+import Buttons from './Buttons'
+import archeslogo from '../images/archeslogo.jpg'
+
+
+function Navbar() {
+
+  return (
+    <div className='nav'>
+
+      <img style={{ margin: '15px 25px' }} src={archeslogo} alt='Golden Arches' />
+
+      <div className='navbar'>
+        <div className='nav-layer-1'>
+          <ul className='nav-layer-1-left'>
+            <li>Language</li>
+            <li>Sign Up for Email</li>
+            <li>Careers</li>
+          </ul>
+
+          <ul className='nav-layer-1-right'>
+            <li>Search</li>
+            <a style={{ fontSize: '13px', marginRight: '20px' }} href='#'>Change your Location</a>
+            <Buttons text="Order Now" />
+          </ul>
+        </div>
+
+        <div>
+          <ul className='nav-layer-2'>
+            <li>Our Menu</li>
+            <li>Download App</li>
+            <li>MyMcDonald's Rewards</li>
+            <li>Exclusive Deals</li>
+            <li>About Our Foods</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  )
+};
+
+export default Navbar
