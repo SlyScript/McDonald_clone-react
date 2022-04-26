@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import Buttons from './Buttons'
 import archeslogo from '../images/archeslogo.jpg'
 
@@ -29,7 +30,7 @@ function Navbar() {
           <ul className='nav-layer-2'>
             <li>Our Menu</li>
             <li>Download App</li>
-            <li>MyMcDonald's Rewards</li>
+            <Link to="/rewards">My McDonald's Rewards</Link>
             <li>Exclusive Deals</li>
             <li>About Our Foods</li>
           </ul>

@@ -67,7 +67,7 @@ function Footer() {
             </div>
 
             <div className='footer-bottom'>
-            <ul className='footer-bottom-links'>
+                <ul className='footer-bottom-links'>
                     <a href='#'>Privacy(Updated)</a>
                     <a href='#'>Terms and Conditions</a>
                     <a href='#'>Digital Accessibility</a>
