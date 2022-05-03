@@ -49,7 +49,7 @@ function Footer() {
                     <a href='#'>Terms and Conditions</a>
                     <a href='#'>Digital Accessibility</a>
                     <a href='#'>Do Not Sell My Personal Information</a>
-                    <a href='#'>Cookie Settings</a>
+                   
                 </ul>
 
                 <ul className='copyright'>

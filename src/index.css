@@ -87,11 +87,13 @@ button {
   margin-bottom: 0px;
 }
 
-.nav-layer-2>Link {
+.nav-layer-2>a {
   padding-right: 50px;
   font-size: 17px;
   font-weight: 400;
   cursor: pointer;
+  text-decoration: none;
+  color: rgb(110, 110, 111);
 }
 
 .aside {
@@ -169,14 +171,17 @@ button {
   margin-bottom: 150px !important;
 }
 
-.footer-bottom>span{
-  margin: auto;
+.footer-bottom-links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer-bottom-links>a {
   text-decoration: none;
   color: black;
   margin: 5px 20px;
+  padding: 0px;
 }
 
 .copyright>span {
@@ -217,11 +222,28 @@ button {
 
 .promo {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+.promo-text>h2{
+  margin: 16px 60px;
+}
 
+.promo-text>p{
+  margin: 16px 60px;
+}
 
+.food-menu{
+  display: flex;
+  justify-content: space-around;
 
+}
+
+.menu-button{
+  display: flex;
+  margin: auto;
+}
 
 
 @media (max-width:800px) {
@@ -324,6 +346,7 @@ button {
 
   .footer-bottom-links{
     display: flex;
+    align-items: center;
     flex-direction: column;
     border-bottom: black 1px solid;
     border-top: black 1px solid;

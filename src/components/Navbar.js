@@ -2,19 +2,13 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Buttons from './Buttons'
 import archeslogo from '../images/archeslogo.jpg'
-import Rewards from '../Pages/Rewards'
-import Home from '../Pages/home'
-import AboutFood from '../Pages/AboutFood'
-import ExclusiveDeals from '../Pages/ExclusiveDeals'
-import DownloadApp from '../Pages/DownloadApp'
-
 
 function Navbar() {
 
   return (
     <div className='nav'>
-
-      <img style={{ margin: '15px 25px' }} src={archeslogo} alt='Golden Arches' />
+      <Link to="/"><img style={{ margin: '15px 25px' }} src={archeslogo} alt='Golden Arches' /></Link>
+      
 
       <div className='navbar'>
         <div className='nav-layer-1'>
@@ -33,11 +27,11 @@ function Navbar() {
 
         <div>
           <ul className='nav-layer-2'>
-          <li>Our Menu</li>
-            <li>Download App</li>
+            <Link to="/ourmenu">Our Menu</Link>
+            <Link to="/downloadapp">Download App</Link>
             <Link to="/rewards">My McDonald's Rewards</Link>
-            <li>Exclusive Deals</li>
-            <li>About Our Foods</li>
+            <Link to="/exclusivedeals">Exclusive Deals</Link>
+            <Link to="/aboutourfood">About Our Food</Link>
           </ul>
         </div>
       </div>
