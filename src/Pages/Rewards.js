@@ -19,6 +19,7 @@ function Rewards() {
     return (
         <div>
             <Navbar />
+            <h1 className='title'>McDonald's Rewards</h1>
             <Bigmac />
             <div className='side'>
                 <div className='side-inner'>

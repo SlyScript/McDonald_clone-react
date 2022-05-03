@@ -31,15 +31,6 @@ function Footer() {
                 </ul>
 
                 <ul>
-                    <h4>Community</h4>
-                    <a href='#'>HACER® Scholarships for Hispanic Students</a>
-                    <a href='#'>Ronald McDonald House Charities</a>
-                    <a href='#'>McDonald's Asian Pacific American</a>
-                    <a href='#'>McDonald's International</a>
-                    <a href='#'>Black and Positively Golden</a>
-                </ul>
-
-                <ul>
                     <h4>Contact Us</h4>
                     <a href='#'>Contact Us</a>
                     <a href='#'>Gift Card FAQs</a>
@@ -50,21 +41,7 @@ function Footer() {
                 </ul>
             </div>
 
-            <div className='social-and-app'>
-                <ul className='social-links'>
-                    <a href='#'>fac</a>
-                    <a href='#'>twi</a>
-                    <a href='#'>yt</a>
-                    <a href='#'>ig</a>
-                    <a href='#'>tumblr</a>
-                    <a href='#'>spotify</a>
-                </ul>
-
-                <ul className='app-links'>
-                    <a href='#'>appstore</a>
-                    <a href='#'>playstore</a>
-                </ul>
-            </div>
+           
 
             <div className='footer-bottom'>
                 <ul className='footer-bottom-links'>
