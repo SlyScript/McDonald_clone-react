@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJS-McDonalds-clone/static/css/main.4ea1fb86.css",
-    "main.js": "/ReactJS-McDonalds-clone/static/js/main.6ab440cf.js",
+    "main.js": "/ReactJS-McDonalds-clone/static/js/main.caeb310e.js",
     "static/media/deals.jpg": "/ReactJS-McDonalds-clone/static/media/deals.06da6fd047a4aba5bd69.jpg",
     "static/media/delivery.png": "/ReactJS-McDonalds-clone/static/media/delivery.beb48ab68a2fb0af39ea.png",
     "static/media/rewards_3000.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_3000.373b77f596695741ddd2.jpg",
@@ -33,10 +33,10 @@
     "static/media/FreeFries.jpg": "/ReactJS-McDonalds-clone/static/media/FreeFries.8d41b218784cc2cc826e.jpg",
     "index.html": "/ReactJS-McDonalds-clone/index.html",
     "main.4ea1fb86.css.map": "/ReactJS-McDonalds-clone/static/css/main.4ea1fb86.css.map",
-    "main.6ab440cf.js.map": "/ReactJS-McDonalds-clone/static/js/main.6ab440cf.js.map"
+    "main.caeb310e.js.map": "/ReactJS-McDonalds-clone/static/js/main.caeb310e.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea1fb86.css",
-    "static/js/main.6ab440cf.js"
+    "static/js/main.caeb310e.js"
   ]
 }
