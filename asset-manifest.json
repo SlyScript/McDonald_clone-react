@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/ReactJS-McDonalds-clone/static/css/main.4ea1fb86.css",
+    "main.js": "/ReactJS-McDonalds-clone/static/js/main.6ab440cf.js",
+    "static/media/deals.jpg": "/ReactJS-McDonalds-clone/static/media/deals.06da6fd047a4aba5bd69.jpg",
+    "static/media/delivery.png": "/ReactJS-McDonalds-clone/static/media/delivery.beb48ab68a2fb0af39ea.png",
+    "static/media/rewards_3000.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_3000.373b77f596695741ddd2.jpg",
+    "static/media/rewards_4500.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_4500.bd7266fb8ad355377a4c.jpg",
+    "static/media/LargeFries.jpg": "/ReactJS-McDonalds-clone/static/media/LargeFries.5978f92709f2ae46680e.jpg",
+    "static/media/rewards_6000.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_6000.099134eab727f7a97524.jpg",
+    "static/media/rewards_food.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_food.d4cc611126916bd3cc01.jpg",
+    "static/media/rewards_1500.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_1500.90304d038c44fbf4d52c.jpg",
+    "static/media/about_food_hero.jpg": "/ReactJS-McDonalds-clone/static/media/about_food_hero.58012c4540c21e066d91.jpg",
+    "static/media/deliver.jpg": "/ReactJS-McDonalds-clone/static/media/deliver.35f2556bfd0beac25695.jpg",
+    "static/media/Cafe.jpg": "/ReactJS-McDonalds-clone/static/media/Cafe.d51ebfd30e9cad9bf046.jpg",
+    "static/media/glazed_donut.jpg": "/ReactJS-McDonalds-clone/static/media/glazed_donut.53c9d786086ab5866b73.jpg",
+    "static/media/freebigmac.jpg": "/ReactJS-McDonalds-clone/static/media/freebigmac.9a5e59256b1ac6857667.jpg",
+    "static/media/rewards_right.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_right.7c5d0ce6a5c88b3ac498.jpg",
+    "static/media/four-right.jpg": "/ReactJS-McDonalds-clone/static/media/four-right.5d58706ed2b00741889c.jpg",
+    "static/media/four-left.jpg": "/ReactJS-McDonalds-clone/static/media/four-left.604c77bd1e211fd2519d.jpg",
+    "static/media/three-right.jpg": "/ReactJS-McDonalds-clone/static/media/three-right.efd0933f76017d784a95.jpg",
+    "static/media/rewards_left.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_left.e021728be128efa3bdf3.jpg",
+    "static/media/one-left.jpg": "/ReactJS-McDonalds-clone/static/media/one-left.eb3816ea941447454bfe.jpg",
+    "static/media/rewards_middle.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_middle.d7e5376186b7185bb2af.jpg",
+    "static/media/rewards_points.jpg": "/ReactJS-McDonalds-clone/static/media/rewards_points.1cdc79b73fec8a10487b.jpg",
+    "static/media/app_promo.jpg": "/ReactJS-McDonalds-clone/static/media/app_promo.48bc0dd70d3781a5c9b3.jpg",
+    "static/media/one-right.jpg": "/ReactJS-McDonalds-clone/static/media/one-right.c915e699f39a60d8a6b7.jpg",
+    "static/media/three-left.jpg": "/ReactJS-McDonalds-clone/static/media/three-left.71cc3b3c711378e3fa98.jpg",
+    "static/media/two-right.jpg": "/ReactJS-McDonalds-clone/static/media/two-right.dfa877ec98c0e951e52e.jpg",
+    "static/media/two-left.jpg": "/ReactJS-McDonalds-clone/static/media/two-left.1714bb826562e55ee50d.jpg",
+    "static/media/google_play_badge.png": "/ReactJS-McDonalds-clone/static/media/google_play_badge.e2f7e8fc73661722b4ef.png",
+    "static/media/app_store_badge.png": "/ReactJS-McDonalds-clone/static/media/app_store_badge.83f984b4d515d732ab38.png",
+    "static/media/FreeFries.jpg": "/ReactJS-McDonalds-clone/static/media/FreeFries.8d41b218784cc2cc826e.jpg",
+    "index.html": "/ReactJS-McDonalds-clone/index.html",
+    "main.4ea1fb86.css.map": "/ReactJS-McDonalds-clone/static/css/main.4ea1fb86.css.map",
+    "main.6ab440cf.js.map": "/ReactJS-McDonalds-clone/static/js/main.6ab440cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea1fb86.css",
+    "static/js/main.6ab440cf.js"
+  ]
+}
